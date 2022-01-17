@@ -38,3 +38,20 @@ body{
     background-color: white;
     color: black;
 }
+
+/* Footer */
+#footer {
+    background-color: #17A3B8;
+}
+
+#footer a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 3rem;
+    text-decoration: none;
+}
+  
+.social-icons i {
+    margin: 0 5px;
+}
