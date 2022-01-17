@@ -1,8 +1,40 @@
+/* General settings */
+
 body{
     font-family: Helvetica;
     background-color: black;
     color:white;
 }
 
-/* navbar */
+.hr-custom {
+    color: #17A3B8;
 
+}
+
+/* Sobre Nosotros */
+.parrafo-icon {
+    background-color: #17A3B8;
+}
+
+.parrafo-icon i{
+    font-size: 2rem;
+}
+
+
+/* Destacados */
+.card {
+    background-color: #17A3B8;
+    border-color: darkgrey;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+/* Formulario de contacto */
+.form {
+    background-color: white;
+    color: black;
+}
